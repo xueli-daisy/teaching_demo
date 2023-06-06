@@ -1,2 +1,2 @@
 # Hashmap
-Using hashmap to implement course enrollment system
+Using hashmap to implement a course enrollment system
